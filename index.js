@@ -1,8 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('te amo demasiado y en verdad quiero que todo esto funcione y cumplamos todas nuestras metas eres lo mejor que pudo llegar a mi vida y me haces demasiado feliz')
-});
+    alert('te amo demasiado y en verdad quiero que todo esto funcione y cumplamos todas nuestras metas eres lo mejor que pudo llegar a mi vida y me haces demasiado feliz')});
 
 const noBtn = document.querySelector('#noBtn');
 
